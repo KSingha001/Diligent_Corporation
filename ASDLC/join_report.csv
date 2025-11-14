@@ -1,0 +1,3 @@
+order_id,order_date,order_status,customer_name,product_name,quantity,unit_price,line_total,total_amount
+2,2024-02-21,delivered,Riya Roy,Yoga Mat,5,62.48,312.4,312.4
+7,2024-02-21,shipped,Arjun Kumar,Smart Watch,5,9.27,46.349999999999994,46.35

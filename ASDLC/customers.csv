@@ -1,0 +1,11 @@
+id,first_name,last_name,email,phone,signup_date,country
+1,Aarav,Singh,aarav.singh@example.com,+918746317213,2021-04-01,India
+2,Vivaan,Das,vivaan.das@example.com,+919184935163,2023-01-31,Canada
+3,Aditya,Chatterjee,aditya.chatterjee@example.com,+916958682846,2021-07-25,United States
+4,Arjun,Kumar,arjun.kumar@example.com,+918906402157,2020-12-22,Netherlands
+5,Ishaan,Sharma,ishaan.sharma@example.com,+917812140441,2020-05-10,India
+6,Kunal,Gupta,kunal.gupta@example.com,+916402418010,2022-06-14,Canada
+7,Riya,Roy,riya.roy@example.com,+918170484433,2020-04-18,UAE
+8,Anika,Bose,anika.bose@example.com,+916854001193,2024-09-14,Canada
+9,Pooja,Ghosh,pooja.ghosh@example.com,+917929338154,2023-02-13,India
+10,Sneha,Bhattacharya,sneha.bhattacharya@example.com,+919259052811,2021-10-15,France

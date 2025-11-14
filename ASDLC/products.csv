@@ -1,0 +1,11 @@
+id,product_name,category,price,sku,stock
+1,Wireless Earbuds,Books,274.09,SKU-1001,445
+2,Bluetooth Speaker,Home,188.9,SKU-1002,430
+3,Stainless Steel Bottle,Clothing,192.94,SKU-1003,311
+4,Yoga Mat,Beauty,62.48,SKU-1004,191
+5,Running Shoes,Sports,229.58,SKU-1005,276
+6,Cotton T-Shirt,Toys,286.2,SKU-1006,472
+7,LED Desk Lamp,Grocery,160.74,SKU-1007,0
+8,Noise Cancelling Headphones,Stationery,181.08,SKU-1008,250
+9,Smart Watch,Accessories,9.27,SKU-1009,475
+10,Portable Charger,Electronics,111.12,SKU-1010,425

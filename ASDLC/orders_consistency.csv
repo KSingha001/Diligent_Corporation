@@ -1,0 +1,3 @@
+order_id,customer_name,order_date,status,items_total,total_amount,consistency_check
+7,Arjun Kumar,2024-02-21,shipped,46.349999999999994,46.35,OK
+2,Riya Roy,2024-02-21,delivered,312.4,312.4,OK

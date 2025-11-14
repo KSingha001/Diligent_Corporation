@@ -1,0 +1,11 @@
+id,order_id,payment_date,amount,payment_method,status,transaction_id
+1,1,2024-10-19,198.88,netbanking,paid,FF2788B289D8679C
+2,2,2024-02-21,312.40,credit_card,paid,7BDAE81DFD41DD47
+3,3,2024-09-06,82.68,debit_card,paid,B63A06177B65993D
+4,4,2024-03-07,52.46,paypal,paid,F06714CBA9130A51
+5,5,2024-10-26,213.65,debit_card,paid,DB4B643611737A89
+6,6,2024-10-30,265.12,paypal,paid,B3E8070F4F3BC0D0
+7,7,2024-02-23,46.35,credit_card,paid,267D9B79DF106196
+8,8,2024-03-24,95.92,debit_card,paid,FEB7C4FA46A750A2
+9,9,2024-05-05,1145.05,netbanking,refunded,90968AB73E8A167C
+10,10,2024-03-29,112.40,paypal,paid,292AF68736054552

@@ -1,0 +1,11 @@
+id,customer_id,order_date,status,total_amount
+1,12,2024-10-12,shipped,198.88
+2,7,2024-02-21,delivered,312.40
+3,49,2024-08-30,processing,82.68
+4,26,2024-03-01,processing,52.46
+5,30,2024-10-19,shipped,213.65
+6,13,2024-10-30,processing,265.12
+7,4,2024-02-21,shipped,46.35
+8,33,2024-03-23,delivered,95.92
+9,26,2024-05-02,cancelled,1145.05
+10,40,2024-03-24,shipped,112.40
